@@ -13,6 +13,7 @@
 		84F00B202D0CC6FB0011EB86 /* Defining_Custom_Shapes_CustomShapesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F00B1B2D0CC6FB0011EB86 /* Defining_Custom_Shapes_CustomShapesApp.swift */; };
 		84F00B262D0CC7860011EB86 /* RightTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F00B252D0CC7860011EB86 /* RightTriangle.swift */; };
 		84F00B282D0CCA950011EB86 /* Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F00B272D0CCA820011EB86 /* Arrow.swift */; };
+		C2E589D82D0FC58700DF54F7 /* Pentagon.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E589D72D0FC58700DF54F7 /* Pentagon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		84F00B1B2D0CC6FB0011EB86 /* Defining_Custom_Shapes_CustomShapesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Defining_Custom_Shapes_CustomShapesApp.swift; sourceTree = "<group>"; };
 		84F00B252D0CC7860011EB86 /* RightTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RightTriangle.swift; sourceTree = "<group>"; };
 		84F00B272D0CCA820011EB86 /* Arrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrow.swift; sourceTree = "<group>"; };
+		C2E589D72D0FC58700DF54F7 /* Pentagon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pentagon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				84F00B272D0CCA820011EB86 /* Arrow.swift */,
+				C2E589D72D0FC58700DF54F7 /* Pentagon.swift */,
 				84F00B252D0CC7860011EB86 /* RightTriangle.swift */,
 			);
 			path = Shapes;
@@ -165,6 +168,7 @@
 				84F00B1F2D0CC6FB0011EB86 /* ContentView.swift in Sources */,
 				84F00B282D0CCA950011EB86 /* Arrow.swift in Sources */,
 				84F00B202D0CC6FB0011EB86 /* Defining_Custom_Shapes_CustomShapesApp.swift in Sources */,
+				C2E589D82D0FC58700DF54F7 /* Pentagon.swift in Sources */,
 				84F00B262D0CC7860011EB86 /* RightTriangle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
